@@ -1,7 +1,33 @@
 # p5.js Creative Sketches
 
-![Project 1](gifs/01.gif)
-![Project 2](gifs/02.gif)
-![Project 3](gifs/03.gif)
-![Project 4](gifs/04.gif)
-![Project 5](gifs/05.gif)
+A collection of generative art and interactive sketches built with [p5.js](https://p5js.org).
+
+---
+
+### 3D Letter Oscillation
+
+![3D Letter Oscillation](gifs/3d-letter-oscillation.gif)
+
+---
+
+### Hypno Flowers
+
+![Hypno Flowers](gifs/03.gif)
+
+---
+
+### Oscillation Trigonometry
+
+![Oscillation Trigonometry](gifs/02.gif)
+
+---
+
+### Rotating X and Squares
+
+![Rotating X and Squares](gifs/01.gif)
+
+---
+
+### Fractal Tree
+
+![Fractal Tree](gifs/05.gif)

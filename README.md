@@ -4,30 +4,19 @@ A collection of generative art and interactive sketches built with [p5.js](https
 
 ---
 
-### 3D Letter Oscillation
-
-![3D 'A' Oscillation](gifs/04.gif)
-
----
-
-### Hypno Flowers
-
-![Hypno Flowers](gifs/03.gif)
-
----
-
-### Oscillation Trigonometry
-
-![Oscillation Trigonometry](gifs/02.gif)
-
----
-
-### Rotating X and Squares
-
-![Rotating X and Squares](gifs/01.gif)
-
----
-
-### Fractal Tree
-
-![Fractal Tree](gifs/05.gif)
+<table>
+  <tr>
+    <td align="center"><b>3D Letter Oscillation</b></td>
+    <td align="center"><b>Hypno Flowers</b></td>
+    <td align="center"><b>Oscillation Trigonometry</b></td>
+    <td align="center"><b>Rotating X and Squares</b></td>
+    <td align="center"><b>Fractal Tree</b></td>
+  </tr>
+  <tr>
+    <td><img src="gifs/04.gif" width="180"/></td>
+    <td><img src="gifs/03.gif" width="180"/></td>
+    <td><img src="gifs/02.gif" width="180"/></td>
+    <td><img src="gifs/01.gif" width="180"/></td>
+    <td><img src="gifs/05.gif" width="180"/></td>
+  </tr>
+</table>

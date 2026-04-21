@@ -6,7 +6,7 @@ A collection of generative art and interactive sketches built with [p5.js](https
 
 ### 3D Letter Oscillation
 
-![3D Letter Oscillation](gifs/3d-letter-oscillation.gif)
+![3D Letter Oscillation]<video src="gifs/04.mp4" autoplay loop muted playsinline width="100%"></video>
 
 ---
 
